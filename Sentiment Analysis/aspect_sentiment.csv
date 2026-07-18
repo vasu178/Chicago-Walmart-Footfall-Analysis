@@ -1,0 +1,12 @@
+Aspect,sentiment,Count
+Checkout,Negative,3
+Checkout,Neutral,3
+Cleanliness,Neutral,1
+Other,Negative,3
+Other,Positive,1
+Pricing,Positive,1
+Product Availability,Neutral,1
+Product Availability,Positive,1
+Staff,Negative,14
+Staff,Neutral,25
+Staff,Positive,10
