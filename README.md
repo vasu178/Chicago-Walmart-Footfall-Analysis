@@ -57,39 +57,6 @@ Python Analysis
 Power BI Dashboard
 ```
 
----
-
-# 🗂️ Repository Structure
-
-```
-Chicago-Walmart-Footfall-Analysis/
-│
-├── data/
-│   ├── raw/
-│   └── cleaned/
-│
-├── sql/
-│   ├── schema/
-│   ├── views/
-│   ├── master_tables/
-│   └── kpis/
-│
-├── python/
-│   ├── data_cleaning/
-│   ├── sentiment_analysis/
-│   ├── correlation_analysis/
-│   └── geospatial_analysis/
-│
-├── dashboard/
-│   └── PowerBI.pbix
-│
-├── images/
-│
-└── README.md
-```
-
----
-
 # 📊 Datasets Used
 
 ## 1. American Community Survey (ACS)
@@ -299,22 +266,11 @@ This project answers questions such as:
 
 ---
 
-# 📷 Dashboard Preview
-
-*(Add screenshots of your Power BI dashboard here.)*
-
-Example:
-
-```
-images/
-    executive_summary.png
-    demographics.png
-    crime_analysis.png
-    competitors.png
-    review_analysis.png
-```
-
----
+# Data Sources
+*American Community Survey (ACS) – Demographics, Income, Education, Poverty- U.S. Census Bureau
+*Chicago Crime Data (2018–2024)-Chicago Crime Data Portal
+*Competitor Locations-Overpass Turbo
+*Customer Reviews-Yelp
 
 # 🚀 Future Improvements
 
