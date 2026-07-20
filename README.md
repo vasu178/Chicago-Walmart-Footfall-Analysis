@@ -57,39 +57,6 @@ Python Analysis
 Power BI Dashboard
 ```
 
----
-
-# 🗂️ Repository Structure
-
-```
-Chicago-Walmart-Footfall-Analysis/
-│
-├── data/
-│   ├── raw/
-│   └── cleaned/
-│
-├── sql/
-│   ├── schema/
-│   ├── views/
-│   ├── master_tables/
-│   └── kpis/
-│
-├── python/
-│   ├── data_cleaning/
-│   ├── sentiment_analysis/
-│   ├── correlation_analysis/
-│   └── geospatial_analysis/
-│
-├── dashboard/
-│   └── PowerBI.pbix
-│
-├── images/
-│
-└── README.md
-```
-
----
-
 # 📊 Datasets Used
 
 ## 1. American Community Survey (ACS)
