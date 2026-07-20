@@ -219,11 +219,25 @@ The final dashboard was developed in Power BI.
 
 Dashboard pages include:
 
-* Executive Summary
-* Demographic Analysis
-* Crime Analysis
-* Competitor Analysis
-* Customer Review Analysis
+### Executive Summary
+
+![Summary](Dashboard_Images/summary.png)
+### Demographic Analysis
+
+![Demographics](Dashboard_Images/demographic.png)
+### Crime Analysis
+![Crime](Dashboard_Images/crime.png)
+
+### Competitor Analysis
+![Competitor](Dashboard_Images/competitor.png)
+
+### Customer Review Analysis
+![Customer Review](Dashboard_Images/reviews.png)
+
+### Business Insights Page
+![Insights](Dashboard_Images/insights.png)
+
+
 
 Interactive Features:
 
